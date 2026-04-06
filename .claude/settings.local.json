@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"KNG\")",
+      "Bash(mkdir -p 语文/七上 语文/七下 语文/八上 语文/八下 语文/九上 语文/九下)",
+      "Bash(mkdir -p 数学/七上 数学/七下 数学/八上 数学/八下 数学/九上 数学/九下)",
+      "Bash(mkdir -p 英语/七上 英语/七下 英语/八上 英语/八下 英语/九上 英语/九下)",
+      "Bash(mkdir -p 物理/八上 物理/八下 物理/九上 物理/九下)",
+      "Bash(ls -la */basic.md)"
+    ]
+  }
+}
